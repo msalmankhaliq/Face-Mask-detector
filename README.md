@@ -1,11 +1,11 @@
 # Face-Mask-detector
-Covid-19 face mask detector using Keras and OpenCv
+Covid-19 face mask detector using Keras and OpenCv.
 This code can detect if a person is wearing mask or not.
 
 
 ## Applications
 
-In order take precautionary measures due to covid-19, this can be used by business and authorities to check if a person entering thier premises is wearing mask or not. Also it is just a one idea, but it can be used for different purposes as well.
+In order take precautionary measures due to covid-19, this can be used by business and authorities to check if a person entering thier premises is wearing mask or not. Also, it is just a one idea but it can be used for different purposes as well.
 
 
 ### Code Requirements
